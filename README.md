@@ -1,2 +1,2 @@
 # robot-arm-lagrange-dynamics
-Matlab code for calculating serial robot arms equation of motion
+generic algorithm to calculate the lagrange dynamics of serial robot manipulators and implementing it using Matlab
