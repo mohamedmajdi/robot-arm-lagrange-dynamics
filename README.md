@@ -13,6 +13,14 @@ effectively describe the link positions of ann-DOF manipulator, the Lagrangian o
 6. Determining Gravitational Vector
 7. Calculating the final dynamic equation of motion
 
+# Code demo
+
+
+
+https://github.com/mohamedmajdi/robot-arm-lagrange-dynamics/assets/69417860/0c979a8f-f00b-4120-9661-e5c97c504e86
+
+
+
 # Key techniques used in programming
 
 Matlab software provides a lot of features for working with Matrices and
